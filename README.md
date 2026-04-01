@@ -1,6 +1,22 @@
 # Claw-Code Rewrite
 Better Harness Tools, not merely an archive.
 
+## Table of Contents
+
+- [Background: The Claude Code Exposure](#background-the-claude-code-exposure)
+  - [Why Repositories Keep Getting Taken Down](#why-repositories-keep-getting-taken-down)
+  - [Why This Repository Exists and Should Stay Available](#why-this-repository-exists-and-should-stay-available)
+  - [What This Repository Is Not](#what-this-repository-is-not)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Support the Research](#support-the-research)
+- [Quickstart](#quickstart)
+  - [Python Workspace](#python-workspace)
+  - [Rust Implementation](#rust-implementation)
+- [Disclaimer](#disclaimer)
+
+---
+
 This repository provides a clean-room implementation and enhancement of the Claw Code harness. Following the exposure of the original source, this project was developed to provide a faster, memory-safe, and legally distinct version of the architecture for the developer community.
 
 ---
