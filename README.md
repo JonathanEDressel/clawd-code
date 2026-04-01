@@ -1,4 +1,4 @@
-# Claw-Code Rewrite
+# Claw-Code
 Better Harness Tools, not merely an archive.
 
 ## Table of Contents
