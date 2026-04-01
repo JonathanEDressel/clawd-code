@@ -124,4 +124,16 @@ This repository is not affiliated with, endorsed by, or maintained by the origin
 
 ---
 
+## Original Authorship & Credit
+
+All original research, architectural design, porting work, and engineering behind this project belongs to **[instructkr](https://github.com/instructkr)** and their collaborators.
+
+The `instructkr` organization is led by **Sigrid Jin (@bellman_ych)**, a researcher and power user who has been one of the most prolific explorers of large language model tooling and agent harness engineering. The original `claw-code` repository was created as a clean-room study and reimplementation of the Claude Code architecture — combining a Python-first workspace for accessibility and parity auditing with a production-grade Rust port for systems-level performance.
+
+The porting and orchestration workflow was built using **[oh-my-codex (OmX)](https://github.com/Yeachan-Heo/oh-my-codex)** — a workflow layer developed by the same team on top of OpenAI's Codex — enabling parallel code review, architecture reconstruction, and persistent execution loops at scale.
+
+This backup exists solely to ensure the work remains accessible to the developer community. **All credit, stars, and recognition belong to the original authors at [https://github.com/instructkr/claw-code](https://github.com/instructkr/claw-code).** If you find this work valuable, please star and follow the original repository.
+
+---
+
 If this repository has been useful to you — for research, learning, or building — consider giving it a **star**. It helps keep the mirror visible and signals to others that the work here is worth preserving.
