@@ -67,8 +67,6 @@ Claw-Code is a high-performance harness designed to wire tools, orchestrate agen
 - **Interactive CLI:** A robust REPL with markdown rendering and project bootstrap flows.
 - **Plugin System:** A flexible hook pipeline for custom extensions.
 
-> **Note:** This repository is a backup/mirror. For the actively maintained and updated version, visit [https://github.com/instructkr/claw-code](https://github.com/instructkr/claw-code).
-
 ## Support the Research
 
 If these harness tools are helping you build better agent workflows, consider supporting the continued research and engineering. Your contributions help maintain the infrastructure and fuel further development passes.
@@ -105,3 +103,9 @@ cargo build --release
 This repository does not claim ownership of the original Claw Code source material.
 
 This repository is not affiliated with, endorsed by, or maintained by the original authors.
+
+> **Note:** This repository is a backup/mirror. For the actively maintained and updated version, visit [https://github.com/instructkr/claw-code](https://github.com/instructkr/claw-code).
+
+---
+
+If this repository has been useful to you — for research, learning, or building — consider giving it a **star**. It helps keep the mirror visible and signals to others that the work here is worth preserving.
